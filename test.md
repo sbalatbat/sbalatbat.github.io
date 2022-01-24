@@ -1,6 +1,6 @@
 # About Me
 
-Hi! My name is Sarah Claire S. Balatbat, and I am a high school senior in Chula Vista High School.
+Hi! My name is Sarah Claire S. Balatbat, and I am a high school senior in Chula Vista High School. I'm planning on majoring in either Math or Computer Science when I go to college. I'm aiming for UCSD but I am open to other colleges as well.
 
 ## Fun Facts
 
@@ -13,5 +13,6 @@ Hi! My name is Sarah Claire S. Balatbat, and I am a high school senior in Chula 
 ### Just testing this
 
 I saw a crab at the supermarket and it stared back at me with its ***blank eyes*** and ***frothing mouth.***
+![cat](sbalatbat/sbalatbat.github.io/assets/img/knife cat.png)
 
 My name is Sarah and I like cats, and I like to look at cats.
